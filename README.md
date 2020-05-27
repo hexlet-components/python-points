@@ -1,8 +1,8 @@
-### hexlet-points
+# python-points
 
 A SICP'ish Points implemented in Python using hexlet-pairs.
 
-### Usage
+## Usage example
 
 <!-- This code will be doctested. Do not touch the markup! -->
 
@@ -16,3 +16,7 @@ A SICP'ish Points implemented in Python using hexlet-pairs.
     200
     >>> points.get_quadrant(p)
     1
+
+[![Hexlet Ltd. logo](https://raw.githubusercontent.com/Hexlet/hexletguides.github.io/master/images/hexlet_logo128.png)](https://ru.hexlet.io/pages/about)
+
+This repository is created and maintained by the team and the community of Hexlet, an educational project. [Read more about Hexlet (in Russian)](https://ru.hexlet.io/pages/about).

@@ -14,16 +14,12 @@ pip install hexlet-points
 
 <!-- This code will be doctested. Do not touch the markup! -->
 
-    >>> from hexlet import points
-    >>> p = points.make(100, 200)
-    >>> print(points.to_string(p))
-    (100, 200)
-    >>> points.get_x(p)
-    100
-    >>> points.get_y(p)
-    200
-    >>> points.get_quadrant(p)
-    1
+    from hexlet import points
+    p = points.make(100, 200)
+    print(points.to_string(p))  # (100, 200)
+    points.get_x(p)  # 100
+    points.get_y(p)  # 200
+    points.get_quadrant(p)  # 1
 
 [![Hexlet Ltd. logo](https://raw.githubusercontent.com/Hexlet/assets/master/images/hexlet_logo128.png)](https://ru.hexlet.io/pages/about)
 

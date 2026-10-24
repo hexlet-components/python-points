@@ -6,10 +6,12 @@ from typing import Optional
 
 from hexlet import pairs
 
-__all__ = (   # noqa: WPS317
-    'make',
-    'get_x', 'get_y', 'get_quadrant',
-    'to_string',
+__all__ = (  # noqa: WPS317
+    "make",
+    "get_x",
+    "get_y",
+    "get_quadrant",
+    "to_string",
 )
 
 
